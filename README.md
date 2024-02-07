@@ -1,6 +1,7 @@
 # bmi_calculator_app
 
-A new Flutter project.
+This project for BMI Calculate with using custome TextFormField and Elevated Button.
+also create a logic class and implement in the UI screen.
 
 ## Getting Started
 
